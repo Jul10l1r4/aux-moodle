@@ -30,7 +30,10 @@ div#g{
 }.msg{
 	font-size:30px;
 	color:#4ea;
-	}
+	border:1px solid #000;
+	text-align:left;
+}
+
 .err{
 	color:#e34;
 	}
@@ -60,6 +63,6 @@ button:hover{
 }
 #resposta{
 	postition:relative;
-	width:200px;
-	background:#aaa;
+	text-align:center
+	background:#fff;
 }
